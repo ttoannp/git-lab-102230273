@@ -7,3 +7,6 @@
 - Lớp: 23T_DT2
 ## Mục tiêu
 Tìm hiểu Git và GitHub.
+
+
+hello tui là bình nè
