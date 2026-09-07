@@ -5,8 +5,6 @@
 - Họ tên: Trần Thái Toàn
 - MSSV: 102230273
 - Lớp: 23T_DT2
+- git: ttoannp
 ## Mục tiêu
 Tìm hiểu Git và GitHub.
-
-
-hello tui là bình nè
